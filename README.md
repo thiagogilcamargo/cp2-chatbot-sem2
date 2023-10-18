@@ -12,7 +12,7 @@ Este repositório contém o relatório do Checkpoint 2 do curso de ADS. O objeti
 - **Conjunto de Dados:** 
     - **Origem:** [Link para o conjunto de dados](https://www.kaggle.com/blastchar/telco-customer-churn)
     - **Nome:** Telecom Churn Dataset
-    - **Tamanho:** 1 MB
+    - **Tamanho:**  176 KB
     - **Quantidade de Registros:**  7043
     - **Linhas x Colunas:** O conjunto de dados possui 7043 linhas x 21 colunas.
     - **Dados Faltantes:** Tratados com preenchimento de médias ou exclusão de registros.
@@ -32,7 +32,7 @@ Este repositório contém o relatório do Checkpoint 2 do curso de ADS. O objeti
 - **Conjunto de Dados:** 
     - **Origem:** [Link para o conjunto de dados](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
     - **Nome:** Diabetes Prediction Dataset
-    - **Tamanho:** 500 KB
+    - **Tamanho:** 9 KB
     - **Quantidade de Registros:** 768
     - **Linhas x Colunas:** 768 x 9
     - **Dados Faltantes:** Tratados com imputação de médias.
@@ -50,7 +50,7 @@ Este repositório contém o relatório do Checkpoint 2 do curso de ADS. O objeti
 - **Conjunto de Dados:** 
     - **Origem:** [Link para o conjunto de dados](https://www.kaggle.com/mlg-ulb/creditcardfraud)
     - **Nome:** Credit Card Fraud Detection
-    - **Tamanho:** 150 MB
+    - **Tamanho:** 69 MB
     - **Quantidade de Registros:** 284.807
     - **Linhas x Colunas:** 284807 x 31
     - **Dados Faltantes:** Não há dados faltantes.
