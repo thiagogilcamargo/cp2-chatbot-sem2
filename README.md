@@ -67,7 +67,7 @@ Este repositório contém o relatório do Checkpoint 2 do curso de ADS. O objeti
     - Precisão: [0.974025974025974]
     - Recall: [0.7653061224489796]
     - F1-Score: [0.8571428571428571]
-- **modelo:** RandomForest
+- **Modelo:** RandomForest
 - **Justificativa:** A detecção de fraudes financeiras é uma tarefa crítica que requer modelos robustos e capazes de lidar com conjuntos de dados desbalanceados. O Random Forest se destaca nesse contexto devido ao seu desempenho sólido e versatilidade. Sua capacidade de lidar com dados desbalanceados, identificar padrões complexos e fornecer uma alta precisão na detecção de fraudes o torna uma escolha ideal. Além disso, a seleção criteriosa de variáveis e o pré-processamento adequado dos dados contribuíram para a eficácia do modelo na identificação de transações fraudulentas, priorizando a segurança financeira.
 
 
