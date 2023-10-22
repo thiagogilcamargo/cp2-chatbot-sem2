@@ -67,11 +67,11 @@ Este repositório contém o relatório do Checkpoint 2 do curso de ADS. O objeti
     - Precisão: [0.974025974025974]
     - Recall: [0.7653061224489796]
     - F1-Score: [0.8571428571428571]
-    - **modelo:** RandomForest
+- **modelo:** RandomForest
 - **Justificativa:** A detecção de fraudes financeiras é uma tarefa crítica que requer modelos robustos e capazes de lidar com conjuntos de dados desbalanceados. O Random Forest se destaca nesse contexto devido ao seu desempenho sólido e versatilidade. Sua capacidade de lidar com dados desbalanceados, identificar padrões complexos e fornecer uma alta precisão na detecção de fraudes o torna uma escolha ideal. Além disso, a seleção criteriosa de variáveis e o pré-processamento adequado dos dados contribuíram para a eficácia do modelo na identificação de transações fraudulentas, priorizando a segurança financeira.
 
 
-- **Escolha do melhor modelo:** Com base nas métricas de desempenho, o "Modelo 3 - Previsão de Fraude em Transações Financeiras (Random Forest)" se destaca por sua excepcional precisão e recall na detecção de fraudes. No entanto, a escolha do melhor modelo deve ser direcionada pelo problema específico que você deseja resolver. Se a detecção de fraudes financeiras é a sua principal prioridade, o Modelo 3 é a escolha ideal. Se você está lidando com outros cenários, como previsão de sobrevivência ou churn, o Modelo 1 ou 2 pode ser mais apropriado, dependendo dos objetivos do projeto.
+ **Escolha do melhor modelo:** Com base nas métricas de desempenho, o "Modelo 3 - Previsão de Fraude em Transações Financeiras (Random Forest)" se destaca por sua excepcional precisão e recall na detecção de fraudes. No entanto, a escolha do melhor modelo deve ser direcionada pelo problema específico que você deseja resolver. Se a detecção de fraudes financeiras é a sua principal prioridade, o Modelo 3 é a escolha ideal. Se você está lidando com outros cenários, como previsão de sobrevivência ou churn, o Modelo 1 ou 2 pode ser mais apropriado, dependendo dos objetivos do projeto.
 Portanto, não há um "melhor" modelo em geral, mas sim um modelo mais adequado para um contexto específico.
 
 **Conclusão:**
