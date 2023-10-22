@@ -74,7 +74,7 @@ Este repositório contém o relatório do Checkpoint 2 do curso de ADS. O objeti
 - **Escolha do melhor modelo:** Com base nas métricas de desempenho, o "Modelo 3 - Previsão de Fraude em Transações Financeiras (Random Forest)" se destaca por sua excepcional precisão e recall na detecção de fraudes. No entanto, a escolha do melhor modelo deve ser direcionada pelo problema específico que você deseja resolver. Se a detecção de fraudes financeiras é a sua principal prioridade, o Modelo 3 é a escolha ideal. Se você está lidando com outros cenários, como previsão de sobrevivência ou churn, o Modelo 1 ou 2 pode ser mais apropriado, dependendo dos objetivos do projeto.
 Portanto, não há um "melhor" modelo em geral, mas sim um modelo mais adequado para um contexto específico.
 
-#Conclusão
+**Conclusão:**
 Após uma análise detalhada dos três modelos de classificação e suas respectivas áreas de aplicação, fica evidente que a escolha criteriosa de um modelo de machine learning desempenha um papel crucial no sucesso de uma solução. Cada modelo se destacou em sua área de expertise, demonstrando ser a escolha ideal para aplicações específicas.
 
 O Modelo 1, baseado em Regressão Logística, provou ser altamente eficaz na previsão de churn em uma empresa de telecomunicações. Sua capacidade de identificar clientes propensos a cancelar seus serviços é fundamental para a retenção de clientes e o planejamento de estratégias de negócios.
